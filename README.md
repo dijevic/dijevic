@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego !!!</h1>
 <h3 align="center">A passionate full stack MERN developer from venezuela , currently based in argentina</h3>
 
-- 🌱 I’m currently learning **React and redux**
+- 🌱 I’m currently learning **SQL , PostgreSQL , sequelize , and others**
 
 - 👨‍💻 All of my projects are available at **github**
 
