@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and redux**
 
-- 👨‍💻 All of my projects are available at [github dude, github.](github dude, github.)
+- 👨‍💻 All of my projects are available at **github**
 
 - 📫 How to reach me **dijevic.developer@gmail.com**
 
