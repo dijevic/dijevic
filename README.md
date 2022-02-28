@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego !!!</h1>
+<h1 align="center">Hello 👋, I'm Diego !!!</h1>
 <h3 align="center">A passionate full stack MERN developer from venezuela , currently based in argentina</h3>
 
 - 🌱 I’m currently learning **SQL , PostgreSQL , sequelize , and others**
