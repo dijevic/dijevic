@@ -13,28 +13,36 @@ Behind the courtains I spend my time reading , drinking good hot coffee and stud
 
 <h3 align="center">Recent Personal Projects :</h3>
 
-<h2 align="center">Cashys app</h2>
+<h2 align="center">Cashys</h2>
 <div align="center" >
- <img  style="border-radius:5px;" height="300" style="border-radius:5px;" src="./images/cashys.png" alt="cashys screenshot"/>
- <img  style="border-radius:5px;" height="300" style="border-radius:5px;" src="./images/cashys2.png" alt="cashys screenshot"/>
+ <img src="./images/cashys1.png" alt="cashys screenshot" height="300" width="600"/>
+ <img src="./images/cashys2.png" alt="cashys screenshot" height="300" width="600"/>
 <p width="350" height="350" align="left">
  
  
-This project has been create with **react, zubstan(Global state) , React Router dom v6 and toastify** 
-for the **_front-end_** and for the **_back-end_** has been built with **Node js ,Express ,Sequelize as ORM , and JWT**
+This project has been create with **react, zustand(global state) , React Router dom v6 and toastify** 
+for the **_front-end_** and for the **_back-end_** has been built with **Node js ,Express ,Sequelize as ORM  and JWT**
 </p>
 
-[go to the demo](https://cashys.netlify.app/)
+[ _Go to the demo_ ](https://cashys.netlify.app/)
+[ _Go to Repository_ ](https://github.com/dijevic/cashys-front-end)
 
 </div>
-<p align="right">
- <img width="250" height="250" src="./images/cashys.png" alt="just forest gump greeting"/>
-  <p display="block" align="center">Description :</p>
-  <h4>Cashys aPP</h4>
 
-This project has been create with **react, zubstan(Global state) , React Router dom v6 and toastify ** for the **_front-end_** and for the **_back-end_** has been built with **Node js ,Express ,Sequelize as ORM , and JWT**
-
+<h2 align="center">Taskys</h2>
+<div align="center" >
+ <img src="./images/taskys1.png" alt="cashys screenshot" height="300" width="600"/>
+ <img src="./images/taskys.png" alt="cashys screenshot" height="300" width="600"/>
+<p width="350" height="350" align="left">
+ 
+ 
+This project has been create with **react, React-Redux & Redux(global state) , React Router dom v5 , sweet alert and react-alert for notifications** for the *front-end* and for the *back-end* has been built with **Node js ,Express ,Sequelize as ORM  and JWT**
 </p>
+
+[ _Go to the demo_ ](https://taskys.netlify.app/)
+[ \*Go to Repository ](https://github.com/dijevic/Tasky)
+
+</div>
 
 - 🧑‍🚀📚I am currently learning **PostgreSQL , Typescript , Next js and nest**
 
