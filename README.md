@@ -11,20 +11,18 @@ Instead of calling me a programmer I preffer to call me **a problem solver**âš’ï
 
 Behind the courtains I spend my time reading , drinking good hot coffee and studying Biology At the _University of Buenos Aires_.
 
-<p align="center">
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/66389456/161407163-cfdb52b9-d3af-4f5a-a468-3e47dbbd44dc.gif" alt="just forest gump greeting"/>
-  
-</p>
-
 <h3 align="center">Recent Personal Projects :</h3>
 
-<div align="left" >
+<div align="center" >
+<span  align="center">This project has been create with **react, zubstan(Global state) , React Router dom v6 and toastify** 
+for the **_front-end_** and for the **_back-end_** has been built with **Node js ,Express ,Sequelize as ORM , and JWT** :</sapn>
  <img width="250" height="250" src="./images/cashys.png" alt="cashys screenshot"/>
 <p width="350" height="350" align="left">
  
-  <h4>Cashys aPP</h4>
- <span display="block" align="center">Description :</span>
-This project has been create with **react, zubstan(Global state) , React Router dom v6 and toastify ** for the **_front-end_** and for the **_back-end_** has been built with **Node js ,Express ,Sequelize as ORM , and JWT**
+<h2 align="center">Cashys app</h2>
+ 
+This project has been create with **react, zubstan(Global state) , React Router dom v6 and toastify** 
+for the **_front-end_** and for the **_back-end_** has been built with **Node js ,Express ,Sequelize as ORM , and JWT**
 </p>
 
 [go to the demo](https://cashys.netlify.app/)
