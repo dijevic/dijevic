@@ -19,11 +19,13 @@ Behind the courtains I spend my time reading , drinking good hot coffee and stud
 <h3 align="center">Recent Personal Projects :</h3>
 
 <div align="left" >
- <img width="250" height="250" src="./images/cashys.png" alt="just forest gump greeting"/>
-  <p display="block" align="center">Description :</p>
+ <img width="250" height="250" src="./images/cashys.png" alt="cashys screenshot"/>
+<p width="350" height="350" align="left">
+ 
   <h4>Cashys aPP</h4>
-
+ <span display="block" align="center">Description :</span>
 This project has been create with **react, zubstan(Global state) , React Router dom v6 and toastify ** for the **_front-end_** and for the **_back-end_** has been built with **Node js ,Express ,Sequelize as ORM , and JWT**
+</p>
 
 [go to the demo](https://cashys.netlify.app/)
 
