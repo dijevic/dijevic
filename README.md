@@ -51,7 +51,7 @@ This project has been create with **react, React-Redux & Redux(global state) , R
 
 </br>
 
-<h3 align="center">Languages , frameworks, libraries and Tools:</h3>
+<h2 align="center">Languages , frameworks, libraries and Tools:</h2>
 
 <h4>Front-end</h4>
 </br>
