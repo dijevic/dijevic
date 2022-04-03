@@ -18,6 +18,11 @@ Behind the courtains I spend my time reading , drinking good hot coffee and stud
 
 <h3 align="center">Recent Personal Projects :</h3>
 
+<p align="center">
+  <img width="200" height="200" src="./images/cashys.png" alt="just forest gump greeting"/>
+  
+</p>
+
 - 🧑‍🚀📚I am currently learning **PostgreSQL , Typescript , Next js and nest**
 
 - 📫📩 You can reach me by **Email** if necessary : **dijevic.developer@gmail.com**
