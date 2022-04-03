@@ -17,10 +17,16 @@ Behind the courtains I spend my time reading , drinking good hot coffee and stud
 </p>
 
 <h3 align="center">Recent Personal Projects :</h3>
+<a href="https://cashys.netlify.app/">
+  <img width="400" height="400" src="./images/cashys.png" alt="just forest gump greeting"/>
+  <span align="center">Description :</span>
+  <h4>Cashys aPP</h4>
+
+This project has been create with **react, zubstan(Global state) , React Router dom v6 and toastify ** for the **_front-end_** and for the **_back-end_** has been built with **Node js ,Express ,Sequelize as ORM , and JWT**
+</a>
 
 <p align="center">
-  <img width="200" height="200" src="./images/cashys.png" alt="just forest gump greeting"/>
-  
+
 </p>
 
 - 🧑‍🚀📚I am currently learning **PostgreSQL , Typescript , Next js and nest**
