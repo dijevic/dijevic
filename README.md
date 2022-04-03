@@ -13,13 +13,12 @@ Behind the courtains I spend my time reading , drinking good hot coffee and stud
 
 <h3 align="center">Recent Personal Projects :</h3>
 
+<h2 align="center">Cashys app</h2>
 <div align="center" >
-<span  align="center">This project has been create with **react, zubstan(Global state) , React Router dom v6 and toastify** 
-for the **_front-end_** and for the **_back-end_** has been built with **Node js ,Express ,Sequelize as ORM , and JWT** :</sapn>
- <img width="250" height="250" src="./images/cashys.png" alt="cashys screenshot"/>
+ <img  style="border-radius:5px;" height="300" style="border-radius:5px;" src="./images/cashys.png" alt="cashys screenshot"/>
+ <img  style="border-radius:5px;" height="300" style="border-radius:5px;" src="./images/cashys2.png" alt="cashys screenshot"/>
 <p width="350" height="350" align="left">
  
-<h2 align="center">Cashys app</h2>
  
 This project has been create with **react, zubstan(Global state) , React Router dom v6 and toastify** 
 for the **_front-end_** and for the **_back-end_** has been built with **Node js ,Express ,Sequelize as ORM , and JWT**
