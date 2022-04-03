@@ -29,4 +29,4 @@ Behind the courtains I spend my time reading , drinking good hot coffee and  stu
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dijevic&show_icons=true&locale=en&layout=compact" alt="dijevic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dijevic&" alt="dijevic" /></p>
+
