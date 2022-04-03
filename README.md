@@ -9,7 +9,7 @@ At the moment I really feel happy working with Javascript in both front-end and 
 
 Instead of calling me a programmer I preffer to call me **a problem solver**⚒️🧮📱 .
 
-🧑‍🚀📚I am interested on learning **PostgreSQL , Typescript , Next js and nest**
+🧑‍🚀📚I am interested in learning **PostgreSQL , Typescript , Next js and nest**
 
 Behind the courtains I spend my time reading , drinking good hot coffee and studying Biology At the _University of Buenos Aires_.
 
