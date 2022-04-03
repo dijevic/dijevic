@@ -10,12 +10,6 @@ Hi ! my Name is Diego , I am young boy in love with *coding💻🧑‍* , *techn
 At the moment I really feel happy  working with Javascript in both front-end and backend with the **MERN(Mongo DB , Express js , React js , Node) stack.**
 
 Instead of  calling me a programmer I preffer to call me **a problem solver**⚒️🧮📱 .
-<p align="center" width="500" height="500" background="#000">
-  <img src="https://res.cloudinary.com/dqrgocc8c/image/upload/v1634217468/szwnioge7rwn4lw2wyre.jpg" alt="fixing fixing"/>
-  
-</p>
-
-
 
 Behind the courtains I spend my time reading , drinking good hot coffee and  studying Biology At the *University of Buenos Aires* .
 
