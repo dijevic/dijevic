@@ -110,3 +110,5 @@ This project has been create with **react, React-Redux & Redux(global state) , R
 </div>
 
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=dijevic&show_icons=true&locale=en&layout=compact" alt="dijevic" /></p>
+
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=dijevic&show_icons=true&locale=en&layout=compact" alt="dijevic" /></p>
