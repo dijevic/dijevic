@@ -1,7 +1,7 @@
 <h1 style="color:green" align="center"> Hello Cowboy !!😄😁</h1>
 
-<h3 align="center">A passionate <b>full stack MERN developer</b>
-</h3>
+<h2 align="center">A passionate <b>full stack MERN developer</b>
+</h2>
 
 Hi ! my Name is Diego , I am young boy in love with _coding💻🧑‍_ , _technology 🖥️_ and _science 🔭🔬_ , I am Curious about everything that is new or unknown for me, passionate and dedicated with every single simple thing I do everyday , an _eternal learner_ and _human after all_.
 
@@ -16,7 +16,7 @@ Behind the courtains I spend my time reading , drinking good hot coffee and stud
 </br>
 </br>
 
-<h3 align="center">Recent Personal Projects :</h3>
+<h2 align="center">Recent Personal Projects :</h2>
 
 <h2 align="center">Cashys</h2>
 <div align="center" >
