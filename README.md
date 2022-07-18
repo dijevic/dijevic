@@ -5,13 +5,13 @@
 
 Hi ! my Name is Diego , I am young boy in love with _coding💻🧑‍_ , _technology 🖥️_ and _science 🔭🔬_ , I am Curious about everything that is new or unknown for me, passionate and dedicated with every single simple thing I do everyday , an _eternal learner_ and _human after all_.
 
-At the moment I really feel happy working with Javascript in both front-end and backend with the **MERN(Mongo DB , Express js , React js , Node) stack.**
+At the moment I really feel happy working with Javascript in both front-end and backend with the **MERN(Mongo DB , Express js , React js , Node) stack but i do not hesitate with working new technologies in the future.**
 
-Instead of calling me a programmer I preffer to call me **a problem solver**⚒️🧮📱 .
+Instead of calling me a programmer I would rather to be called **a problem solver**⚒️🧮📱 .
 
 🧑‍🚀📚I am interested in learning **PostgreSQL , Typescript , Next js and nest**
 
-Behind the courtains I spend my time reading , drinking good hot coffee and studying Biology At the _University of Buenos Aires_.
+Behind the courtains I spend my time reading,writting short stories, drinking good hot coffee, going to the mountaint to do hiking or trekking and studying Biology At the _University of Buenos Aires_.
 
 </br>
 </br>
