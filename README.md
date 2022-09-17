@@ -1,4 +1,4 @@
-<h1 style="color:green" align="center"> Hello  !!😄😁</h1>
+<h1 style="color:green" align="center"> WELCOME  !!😄😁</h1>
 
 <h2 align="center">A passionate <b>full stack MERN developer</b>
 </h2>
@@ -9,7 +9,7 @@ At the moment I really feel happy working with Javascript in both front-end and 
 
 Instead of calling me a programmer I would rather to be called **a problem solver**⚒️🧮📱 .
 
-🧑‍🚀📚I am interested in learning **PostgreSQL , Typescript , Next js and nest**
+
 
 Behind the courtains I spend my time reading,writting short stories, drinking good hot coffee, going to the mountaint to do hiking or trekking and studying Biology At the _University of Buenos Aires_.
 
