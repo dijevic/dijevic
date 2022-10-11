@@ -1,22 +1,58 @@
-<h1 style="color:green" align="center"> WELCOME  !!😄😁</h1>
+<h1 align="center">  
+<b> A Programming Lover 🧑‍💻💙 </b>
 
-<h2 align="center">A passionate <b>full stack MERN developer</b>
-</h2>
+</br>
 
-Hi ! my Name is Diego , I am young boy in love with _coding💻🧑‍_ , _technology 🖥️_ and _science 🔭🔬_ , I am Curious about everything that is new or unknown for me, passionate and dedicated with every single simple thing I do everyday , an _eternal learner_ and _human after all_.
+<div align="center" >
+ <img src="./images/astronaut.png" alt="cashys screenshot" height="200" width="200"/>
+ <img src="./images/astrodino.png" alt="cashys screenshot" height="200" width="200"/>
 
-At the moment I really feel happy working with Javascript in both front-end and backend with the **MERN(Mongo DB , Express js , React js , Node) stack but i do not hesitate with working new technologies in the future.**
+</div>
+</h1>
+</br>
 
-Instead of calling me a programmer I would rather to be called **a problem solver**⚒️🧮📱 .
+<div align="center" width="600" >
 
+<span align="left" width="600">
 
+I am in love with coding💻🧑‍ , technology 🖥️ and science 🔭🔬 , I am Curious about everything that is new or unknown for me, passionate and dedicated with every single simple thing I do everyday , an eternal learner and human after all.
 
-Behind the courtains I spend my time reading,writting short stories, drinking good hot coffee, going to the mountaint to do hiking or trekking and studying Biology At the _University of Buenos Aires_.
+I really feel happy working with Javascript in both front-end and backend with the **MERN(Mongo DB , Express js , React js , Node) stack.**
+I am currently learning .Net and c# ⚒️🧮📱 .
+
+I am interested in learning **PostgreSQL , Typescript , Next js and nest**
+
+Behind the courtains I spend my time reading , drinking good hot coffee and studying Biology At the _University of Buenos Aires_.
+</span>
+
+</div>
 
 </br>
 </br>
+
+<div align="center" >
+ <img src="./images/moonAstronaut.png" alt="cashys screenshot" height="200" width="200"/>
+ <img src="./images/image1.svg" alt="cashys screenshot" height="200" width="200"/>
+
+</div>
 
 <h2 align="center">Recent Personal Projects :</h2>
+
+<h2 align="center"><i>Timy</i></h2>
+<div align="center" >
+ <img  src="./images/timy.png" alt="cashys screenshot" height="300" width="600"/>
+<p width="350" height="350" align="left">
+ 
+<b> A Pomodoro Project</b>
+ 
+Front-end project made with **React js , Context API , React Router dom v6 ,SASS module,**
+
+</p>
+
+[ _Go to the demo_ ](https://timy-app.netlify.app/)
+[ _Go to Repository_ ](https://github.com/dijevic/Timy)
+
+</div>
 
 <h2 align="center">Cashys</h2>
 <div align="center" >
@@ -24,9 +60,10 @@ Behind the courtains I spend my time reading,writting short stories, drinking go
  <img src="./images/cashys2.png" alt="cashys screenshot" height="300" width="600"/>
 <p width="350" height="350" align="left">
  
- 
-This project has been create with **react, zustand(global state) , React Router dom v6 and toastify** 
-for the **_front-end_** and for the **_back-end_** has been built with **Node js ,Express ,Sequelize as ORM  and JWT**
+<b> A Money balance Project</b>
+
+A full stack MERN Project made with **React, zustand(global state) , React Router dom v6 and toastify** for the **_front-end_** and for the **_back-end_** has been built with **Node js ,Express ,Sequelize as ORM and JWT**
+
 </p>
 
 [ _Go to the demo_ ](https://cashys.netlify.app/)
@@ -35,13 +72,16 @@ for the **_front-end_** and for the **_back-end_** has been built with **Node js
 </div>
 
 <h2 align="center">Taskys</h2>
+
 <div align="center" >
  <img src="./images/taskys1.png" alt="cashys screenshot" height="300" width="600"/>
  <img src="./images/taskys.png" alt="cashys screenshot" height="300" width="600"/>
 <p width="350" height="350" align="left">
  
- 
-This project has been create with **react, React-Redux & Redux(global state) , React Router dom v5 , sweet alert and react-alert for notifications** for the *front-end* and for the *back-end* has been built with **Node js ,Express ,Sequelize as ORM  and JWT**
+<b> A Task handler project</b>
+
+Full stack project made with **react, React-Redux & Redux(global state) , React Router dom v5 , sweet alert and react-alert for notifications** for the _front-end_ and for the _back-end_ has been built with **Node js ,Express ,Sequelize as ORM and JWT**
+
 </p>
 
 [ _Go to the demo_ ](https://taskys.netlify.app/)
