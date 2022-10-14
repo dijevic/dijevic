@@ -46,7 +46,9 @@ Behind the courtains I spend my time reading , drinking good hot coffee and stud
 
 <h2 align="center"><i>Timy</i></h2>
 <div align="center" >
- <img  src="./images/timy.png" alt="cashys screenshot" height="300" width="600"/>
+ <img  src="./images/timy1.png" alt="cashys screenshot" height="300" width="600"/>
+ <img  src="./images/timy2.png" alt="cashys screenshot" height="300" width="600"/>
+
 <p width="350" height="350" align="left">
  
 <b> A Pomodoro Project</b>
