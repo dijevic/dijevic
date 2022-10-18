@@ -36,7 +36,6 @@ Behind the courtains I spend my time reading , drinking good hot coffee and stud
 
 <div align="center" >
  <img src="./images/moonAstronaut.png" alt="cashys screenshot" height="200" width="200"/>
- <img src="./images/image1.svg" alt="cashys screenshot" height="200" width="200"/>
  
  
 
