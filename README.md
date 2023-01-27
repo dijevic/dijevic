@@ -1,13 +1,9 @@
 <h1 align="center">  
-<b> A Programming Lover 🧑‍💻💙 </b>
+<b> Programming Lover 🧑‍💻💙 </b>
 
 </br>
 
-<div align="center" >
- <img src="./images/astronaut.png" alt="cashys screenshot" height="200" width="200"/>
 
-
-</div>
 </h1>
 </br>
 
